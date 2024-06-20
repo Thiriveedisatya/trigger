@@ -1,1 +1,2 @@
 trigger
+added new text
